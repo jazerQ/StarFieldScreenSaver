@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\bin\Release\renameExe.exe.config
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\bin\Release\renameExe.exe
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\bin\Release\renameExe.pdb
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\obj\Release\renameExe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\obj\Release\renameExe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\obj\Release\renameExe.exe
+C:\Users\user\source\repos\StarFieldSimulation\renameExe\obj\Release\renameExe.pdb

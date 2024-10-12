@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\bin\Release\StarFieldSimulation.exe.config
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\bin\Release\StarFieldSimulation.exe
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\bin\Release\StarFieldSimulation.pdb
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\MainWindow.g.cs
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\App.g.cs
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation_Content.g.cs
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation_MarkupCompile.cache
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation_MarkupCompile.lref
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\MainWindow.baml
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.g.resources
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.Properties.Resources.resources
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.exe
+C:\Users\user\source\repos\StarFieldSimulation\StarFieldSimulation\obj\Release\StarFieldSimulation.pdb
